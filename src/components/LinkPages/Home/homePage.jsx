@@ -100,7 +100,7 @@ and Iam a
               animation: "blink 1s infinite",ml:2
             }}
           >
-            <TypingText text="BackEnd Developer" />
+            <TypingText text="BackEnd Engineer" />
           </Typography>
         <Typography
           variant="body1"
@@ -128,7 +128,7 @@ with hands-on experience managing production environments and resolving critical
   }}
 >
   {/* زر Connect */}
-  <Link to="/conect" style={{ textDecoration: "none" }}>
+  <Link to="/connect" style={{ textDecoration: "none" }}>
     <Button
       variant="contained"
       color="primary"

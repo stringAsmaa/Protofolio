@@ -29,7 +29,7 @@ import BusinessCenterIcon from '@mui/icons-material/BusinessCenter';
 import PlaylistAddIcon from '@mui/icons-material/PlaylistAdd';
 import PublicIcon from '@mui/icons-material/Public';
 const drawerWidth = 240;
-const navItems = ["Public", "Skills", "Projects", "Conect"];
+const navItems = ["Public", "Skills", "Projects", "Connect"];
 
 function DrawerAppBar(props) {
   const { window, toggleMode, mode } = props;
