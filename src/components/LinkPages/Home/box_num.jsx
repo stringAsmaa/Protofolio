@@ -29,7 +29,7 @@ const StatsSection = () => {
 
   const items = [
     { number: "3", label: "Years of Experience", suffix: "+" },
-    { number: "6", label: "Projects Completed", suffix: "+" },
+    { number: "10", label: "Projects Completed", suffix: "+" },
     { number: "14", label: "Technologies Used", suffix: "+" },
     { number: "100", label: "Passion & Commitment", suffix: "%" },
   ];
