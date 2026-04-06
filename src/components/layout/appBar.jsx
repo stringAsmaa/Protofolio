@@ -54,7 +54,7 @@ function DrawerAppBar(props) {
     Projects: (
       <BusinessCenterIcon fontSize="small" sx={{ color: theme.navbar.border }} />
     ),
-    Conect: (
+    Connect: (
       <CallIcon fontSize="small" sx={{ color: theme.navbar.border }} />
     ),
   };

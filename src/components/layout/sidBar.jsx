@@ -82,7 +82,6 @@ const isActive = location.pathname === href;
 
               <ListItemIcon  sx={{
     color: isActive ? '#fff' : theme.palette.primary.main,
-    color: isActive ? '#fff' :  '#1976d2', 
     '&:hover': {
       color: isActive ? theme.palette.primary.dark : theme.palette.action.hover
     }
