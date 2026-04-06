@@ -30,7 +30,7 @@ export default function App({toggleMode, mode}){
 <Route path="/projects/:id" element={<ProjectDetailsPage />} />
       <Route path="/projects" element={<CardPage />} />
 
-        <Route path="/conect" element={<ConectPage />} />
+        <Route path="/connect" element={<ConectPage />} />
 
 
 </Route>
